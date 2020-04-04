@@ -1,0 +1,231 @@
+html
+{
+	height: 100%;
+}
+
+body
+{	
+	background-color: #292929 !important;
+	height: 100%;
+}
+
+header
+{
+	width: 100%;
+	position: fixed;
+	top: 0;
+}
+
+
+
+.f-h
+{
+	height: 100%;
+}
+
+.Register-main
+{	
+	padding: 3vh;
+	border: 1px solid black;
+	border-radius: 5px;
+	background-color: white;
+	margin-top:-10%;
+}
+
+#btn-co
+{
+	display: block;
+	margin : auto;
+}
+
+#register-link
+{
+	margin-top:10%;
+}
+
+.f-w
+{
+	width: 100%;
+}
+
+.test
+{
+	background-color: red;
+}
+
+#main-title
+{	
+	margin-top: 10vh;
+	margin-bottom: 5vh;
+	margin-left: 30%;
+	margin-right: 30%;
+	color: black;
+	background-color: white;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	border-radius: 8px; 
+}
+
+#article-title
+{
+	margin-bottom: 5%;
+}
+
+.article
+{
+	background-color: #eae9ef;
+	margin: 5%;
+	border-radius: 6px;
+	padding-left: 0px !important;
+	padding-right: 0px !important;
+}
+.commentary
+{
+	background-color: #eae9ef;
+}
+
+#content-article
+{
+	margin-bottom: 3%;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+hr {
+	border: solid black;
+	width: 50%;
+}
+
+#commentary-article
+{
+	margin-bottom: 1.5%;
+	margin-right: 5%;
+
+}
+
+#pic-article
+{
+	margin-left: 0;
+	margin-right: 0;
+	margin-bottom: 4%;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+
+#commentary_one
+{
+	padding-bottom: 2vh;
+}
+
+.border-classic
+{
+	border:1px solid black;
+}
+.pl
+{
+	padding-left: 3vh;
+}
+
+.pt
+{
+	padding-top: 1vh;
+}
+
+#commentaries-title
+{	
+	margin-top: 5vh;
+	margin-bottom: 2vh;
+	margin-left:40%;
+	margin-right: 40%;
+	color: black;
+	background-color: white;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	border-radius: 8px; 
+}
+
+#send-com
+{	
+	padding-right: 2vh;
+	padding-left: 2vh;
+	margin-top: 1vh;
+	margin-bottom: 2vh;
+}
+
+#anchor-comment
+{
+	width: 5vh;
+	margin left: 2vh;
+}
+
+.mt
+{
+	margin-top: 10vh;
+}
+
+textarea.mt
+{
+	margin-top:2vh;
+}
+
+#anchor-link
+{
+	position: fixed;
+	bottom: 0;
+	opacity: 0;
+}
+.comments-section{
+	padding-bottom: 2vh;
+}
+
+.comments-section:hover  #anchor-link {
+	opacity:1;
+}
+
+#profil-title
+{
+	margin-top: 10vh;
+	margin-bottom: 5vh;
+	width: 20%;
+	color: black;
+	background-color: white;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	border-radius: 8px; 
+}
+
+.bg
+{
+	background-color: #eae9ef;
+}
+
+#first-profil
+{	
+	border-right: 1px solid black;
+}
+
+#second-profil
+{	
+	padding-top: 2vh;
+	padding-bottom: 2vh;
+}
+
+#profil-card
+{
+	border-radius: 6px;
+}
+
+.pb
+{
+	padding-bottom: 2vh;
+}
+
+.mb
+{
+	margin-bottom: 2vh;
+}
+
+#active
+{
+	color:white;
+}
